@@ -1,4 +1,3 @@
-layout_spectrum: 0.8252538377419114
 typography_spectrum: 0.11144008534029126
 color:
   brandStrength: 0.39894144842401147
@@ -11,4 +10,6 @@ color:
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
+layout_spectrum: 0.8252538377419114
 name: Cora C
+title: Cora Pics
