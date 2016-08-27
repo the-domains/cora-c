@@ -1,15 +1,15 @@
-typography_spectrum: 0.11144008534029126
+layout_spectrum: 0.01101141911931336
+typography_spectrum: 0.8865705213975161
 color:
-  brandStrength: 0.39894144842401147
-  lightness: 0.9376163568813354
-  saturation: 0.160560789052397
-  rhythmicContrast: 0.028163518756628036
+  brandStrength: 0.157474436564371
+  lightness: 0.3245504095684737
+  saturation: 0.4848185405135155
+  rhythmicContrast: 0.3489004736766219
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-layout_spectrum: 0.8252538377419114
+    - '#0F0C05'
+    - '#A0A5AB'
+    - '#4B9BB6'
+    - '#43342F'
+    - '#206584'
 name: Cora C
 title: Cora Pics
